@@ -14,6 +14,9 @@
 		C1AEB2781E0B841100F990A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1AEB2761E0B841100F990A8 /* LaunchScreen.storyboard */; };
 		C1AEB2831E0B841200F990A8 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1AEB2821E0B841200F990A8 /* TicTacToeTests.swift */; };
 		C1AEB28E1E0B841200F990A8 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1AEB28D1E0B841200F990A8 /* TicTacToeUITests.swift */; };
+		C1AEB29E1E0B85F300F990A8 /* otictactoe.png in Resources */ = {isa = PBXBuildFile; fileRef = C1AEB29B1E0B85F300F990A8 /* otictactoe.png */; };
+		C1AEB29F1E0B85F300F990A8 /* xtictactoe.png in Resources */ = {isa = PBXBuildFile; fileRef = C1AEB29C1E0B85F300F990A8 /* xtictactoe.png */; };
+		C1AEB2A01E0B85F300F990A8 /* tactactoegrid.gif in Resources */ = {isa = PBXBuildFile; fileRef = C1AEB29D1E0B85F300F990A8 /* tactactoegrid.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		C1AEB2891E0B841200F990A8 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1AEB28D1E0B841200F990A8 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		C1AEB28F1E0B841200F990A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1AEB29B1E0B85F300F990A8 /* otictactoe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = otictactoe.png; path = ../../../Downloads/otictactoe.png; sourceTree = "<group>"; };
+		C1AEB29C1E0B85F300F990A8 /* xtictactoe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = xtictactoe.png; path = ../../../Downloads/xtictactoe.png; sourceTree = "<group>"; };
+		C1AEB29D1E0B85F300F990A8 /* tactactoegrid.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = tactactoegrid.gif; path = ../../../Downloads/tactactoegrid.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				C1AEB2741E0B841100F990A8 /* Assets.xcassets */,
 				C1AEB2761E0B841100F990A8 /* LaunchScreen.storyboard */,
 				C1AEB2791E0B841100F990A8 /* Info.plist */,
+				C1AEB29D1E0B85F300F990A8 /* tactactoegrid.gif */,
+				C1AEB29C1E0B85F300F990A8 /* xtictactoe.png */,
+				C1AEB29B1E0B85F300F990A8 /* otictactoe.png */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
@@ -235,7 +244,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1AEB29E1E0B85F300F990A8 /* otictactoe.png in Resources */,
+				C1AEB29F1E0B85F300F990A8 /* xtictactoe.png in Resources */,
 				C1AEB2781E0B841100F990A8 /* LaunchScreen.storyboard in Resources */,
+				C1AEB2A01E0B85F300F990A8 /* tactactoegrid.gif in Resources */,
 				C1AEB2751E0B841100F990A8 /* Assets.xcassets in Resources */,
 				C1AEB2731E0B841100F990A8 /* Main.storyboard in Resources */,
 			);
